@@ -684,7 +684,6 @@ if __name__ == "__main__":
         "what is the temperature",
         "how is the progress on the house",
         "hey computer what time is it",
-        "is it roughly gay",
         "i want to do it now",
         "i want you to do it now"
     ]
@@ -703,4 +702,5 @@ if __name__ == "__main__":
             print("Parse failed or partial parse.")
         else:
             p.pretty_print()
+
 
